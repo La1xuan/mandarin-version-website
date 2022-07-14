@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Qixuan Zhong
+title: 钟其轩
 email: zhongq7@mcmaster.ca
-description: Follow the path of my heart
+description: 追随心的方向
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://La1xuan.github.io/"
 github_username:  La1xuan

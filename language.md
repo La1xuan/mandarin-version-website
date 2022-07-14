@@ -5,12 +5,12 @@ permalink: /Language/
 ---
 
 ## My website is available in:
-[中文](Mandarin)   
+[Mandarin](中文)   
 [English]  
   
 
 
 
 
-[中文]: /index  
+[Mandarin]: /index  
 [English]: /EnglishVer
