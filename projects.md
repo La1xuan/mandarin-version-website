@@ -11,9 +11,9 @@ permalink: /projects_and_experience/
 
 ### 定时按键精灵
 2022年7月  
-Currently private  
-Programmed a helper program allowing the user to record instructions, and set a time to execute the recorded instructions.  
-This project was developed on python, operated by pyautogui module to record instructions by hotkeys, save the recorded instructions as json files, and let the user setting the time to execute them.  
+目前闭源  
+编写了一个帮助程序，允许用户记录指令，并设置执行记录指令的时间。
+本项目基于python开发，由pyautogui模块操作，通过热键记录指令，将记录的指令保存为json文件，并允许用户设置执行时间。
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 我的个人网站（Github page）
@@ -25,31 +25,31 @@ This project was developed on python, operated by pyautogui module to record ins
 ### Steam自动登录器
 2022年 7月  
 开源于 [github.com/La1xuan/steamAutoLogin]  
-Description waiting to be completed.  
+待填坑  
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### AutoArknight
 2022年 1月  
 开源于 [github.com/La1xuan/AutoArknights]  
-In the game "Arknights", the in-game task to collect resource is repetitive and time-consuming. This is a game add-on to complete those tedious task in the game, offering an option for the user to skip the boring processes and go strait to enjoy the game.  
-This project was developed on python, operated by opencv module for image matching and Android ADB commands.  
+在游戏《明日方舟》中，收集资源的游戏内任务是重复且耗时的。 这是一个完成游戏中那些繁琐任务的游戏插件，为用户提供了一个选择，让他们跳过无聊的过程，直接体验游戏乐趣。  
+本项目基于python开发，使用opencv模块进行图像匹配， 以及Android ADB命令。  
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 定时提醒器
-Apr 2021  
-Currently private  
-A continuous focusing on screen for over one hour can be harmful to the eyes. A timer was sharped to remind the user every hour after started, and lock the mouse input after the norification, forcing the user to take a break, protecting the user's eyes.  
-This project was developed on python, utilized pyautogui module to lock the user control and sends the notification.  
+2021年 4月    
+目前闭源  
+连续盯着屏幕超过一小时可能对眼睛有害。 该程序启动后将每隔一小时提醒用户，并在通知后锁定鼠标输入，强制用户休息，保护用户的眼睛。
+本项目基于python开发，利用pyautogui模块锁定用户控件及发送通知。 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-## Experiences  
+## 经验  
 
 
 
-### Software Develop Assistance (Intern) 
-#### —at Industrial and Commercial Bank of China, Longyan, Fujian, China
-Jun - Sep 2021  
-Work as a mentor's assistant, solving the technological questions arise by other employees from other departments, design and update the front-end interface that highlights the suspecious transactions, and help the clerks dealing with them.  
+### 工行星令营 (实习生) 
+#### —在 中国工商银行, 龙岩, 福建, 中国
+2021年 6月 至 9月 
+作为导师的助手，解决其他部门其他员工提出的技术问题，设计和更新突出可疑交易的前端界面，并帮助业务员处理这些问题。
 
 
   
